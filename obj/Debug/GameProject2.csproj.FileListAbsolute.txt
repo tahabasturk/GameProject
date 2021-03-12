@@ -1,0 +1,5 @@
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\GameProject2\bin\Debug\GameProject2.exe.config
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\GameProject2\bin\Debug\GameProject2.exe
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\GameProject2\bin\Debug\GameProject2.pdb
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\GameProject2\obj\Debug\GameProject2.exe
+C:\Users\taha\Desktop\YazılımGeliştirmeKampı\YazılımGeliştirmeKampı\GameProject2\obj\Debug\GameProject2.pdb
